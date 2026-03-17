@@ -102,8 +102,8 @@ graph LR
     subgraph total["📚 รวมทั้งหมด ~32 เรื่อง"]
         direction LR
         A["✅ Published<br/>7 เรื่อง"]
-        B["📬 Accepted<br/>2 เรื่อง"]
-        C["🔍 Under Review<br/>6 เรื่อง"]
+        B["📬 Accepted<br/>3 เรื่อง"]
+        C["🔍 Under Review<br/>5 เรื่อง"]
         D["🔧 In Progress<br/>~17 เรื่อง"]
     end
 
