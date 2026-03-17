@@ -1,4 +1,5 @@
 # แผนงานวิจัย 3 ปี (Research Plan 2026–2029)
+## Dr. Nutthakorn Chalaemwongwan
 ## ตำแหน่งอาจารย์ ภาควิชาครุศาสตร์เทคโนโลยีและสารสนเทศ
 ## คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ
 
@@ -8,10 +9,11 @@
 
 | รายการ | รายละเอียด |
 |---|---|
-| **วุฒิการศึกษา** | ปร.ด. การบริหารธุรกิจอุตสาหกรรม (มจพ.) / วท.ม. เทคโนโลยีสารสนเทศ (มจธ.) / วศ.บ. วิศวกรรมสารสนเทศและการสื่อสาร (มฟล.) |
-| **ประสบการณ์สอน** | อาจารย์ KOSEN-KMITL, มจพ., มฟล. |
-| **ประสบการณ์อุตสาหกรรม** | Cybersecurity (MDR/CSOC), Project Manager (True Corp.), Technical Consultant |
-| **ความเชี่ยวชาญ** | Security Architecture, Cloud Security, DFIR, Cryptography, Network Security, AI/LLM |
+| **วุฒิการศึกษา** | ปร.ด. การบริหารธุรกิจอุตสาหกรรม — มจพ. *(GPA 3.91)* / ปร.ด. เทคโนโลยีสารสนเทศ — ม.มหานคร / วท.ม. เทคโนโลยีสารสนเทศ — มจธ. / วศ.บ. วิศวกรรมสารสนเทศฯ — มฟล. |
+| **ประสบการณ์สอน** | อาจารย์ KOSEN-KMITL, มจพ., มฟล. (รวม 9 รายวิชา) |
+| **ประสบการณ์อุตสาหกรรม** | Founder — Monster Connect (11 ปี) / Advisor — Cyber Defense TH / PM — True Corp. |
+| **ความเชี่ยวชาญ** | Security Architecture, Cloud Security, DFIR, MDR/CSOC, Cryptography, AI/LLM |
+| **ใบรับรองวิชาชีพ** | 138 Certifications (AWS, SentinelOne, Okta, SOCRadar ฯลฯ) |
 
 ---
 
