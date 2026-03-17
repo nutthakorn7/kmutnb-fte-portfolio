@@ -89,11 +89,12 @@
 <div align="center">
 
 ```mermaid
-pie title 📊 Publication Pipeline (32 papers)
-    "✅ Published (7)" : 7
-    "🟢 Accepted (2)" : 2
-    "🟡 Under Review (6)" : 6
-    "🔵 In Progress (17)" : 17
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#eab308', 'pie4': '#a855f7', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
+pie title Publication Pipeline - 32 papers
+    "Published (7)" : 7
+    "Accepted (2)" : 2
+    "Under Review (6)" : 6
+    "In Progress (17)" : 17
 ```
 
 </div>
@@ -124,11 +125,11 @@ graph LR
     D --> D2["Academic Integrity"]
     D --> D3["Responsible AI Policy"]
 
-    style CENTER fill:#6366f1,stroke:#4f46e5,color:#fff,font-weight:bold
-    style A fill:#0ea5e9,stroke:#0284c7,color:#fff
-    style B fill:#10b981,stroke:#059669,color:#fff
-    style C fill:#f59e0b,stroke:#d97706,color:#fff
-    style D fill:#ef4444,stroke:#dc2626,color:#fff
+    style CENTER fill:#818cf8,stroke:#a5b4fc,color:#fff,font-weight:bold
+    style A fill:#38bdf8,stroke:#7dd3fc,color:#fff
+    style B fill:#34d399,stroke:#6ee7b7,color:#fff
+    style C fill:#fbbf24,stroke:#fde68a,color:#000
+    style D fill:#f87171,stroke:#fca5a5,color:#fff
 ```
 
 ### Published & Accepted Papers

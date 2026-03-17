@@ -60,6 +60,7 @@
 ## 📊 Assessment
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#3b82f6', 'pie2': '#06b6d4', 'pie3': '#eab308', 'pie4': '#22c55e', 'pie5': '#f97316', 'pie6': '#a855f7', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
 pie title สัดส่วนการประเมิน
     "Case Analysis" : 15
     "UX/Cognitive Lab" : 15

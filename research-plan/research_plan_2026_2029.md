@@ -107,11 +107,11 @@ graph LR
         D["🔧 In Progress<br/>~17 เรื่อง"]
     end
 
-    style A fill:#198754,stroke:#fff,color:#fff
-    style B fill:#0D6EFD,stroke:#fff,color:#fff
-    style C fill:#FFC107,stroke:#000,color:#000
-    style D fill:#6C757D,stroke:#fff,color:#fff
-    style total fill:#f8f9fa,stroke:#dee2e6,color:#212529
+    style A fill:#22c55e,stroke:#4ade80,color:#fff
+    style B fill:#3b82f6,stroke:#60a5fa,color:#fff
+    style C fill:#eab308,stroke:#facc15,color:#000
+    style D fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style total fill:transparent,stroke:#6b7280,color:#d1d5db
 ```
 
 </div>
@@ -207,16 +207,16 @@ graph TB
         H
     end
 
-    style A fill:#DC3545,stroke:#DC3545,color:#fff
-    style B fill:#0078D4,stroke:#0078D4,color:#fff
-    style C fill:#198754,stroke:#198754,color:#fff
-    style D fill:#FFD700,stroke:#E6C200,color:#000
-    style E fill:#FD7E14,stroke:#FD7E14,color:#fff
-    style F fill:#6F42C1,stroke:#6F42C1,color:#fff
-    style G fill:#0DCAF0,stroke:#0DCAF0,color:#000
-    style H fill:#D63384,stroke:#D63384,color:#fff
-    style input fill:#2d333b,stroke:#444c56,color:#adbac7
-    style output fill:#2d333b,stroke:#444c56,color:#adbac7
+    style A fill:#ef4444,stroke:#f87171,color:#fff
+    style B fill:#3b82f6,stroke:#60a5fa,color:#fff
+    style C fill:#22c55e,stroke:#4ade80,color:#fff
+    style D fill:#f59e0b,stroke:#fbbf24,color:#000,font-weight:bold
+    style E fill:#f97316,stroke:#fb923c,color:#fff
+    style F fill:#a855f7,stroke:#c084fc,color:#fff
+    style G fill:#06b6d4,stroke:#22d3ee,color:#000
+    style H fill:#ec4899,stroke:#f472b6,color:#fff
+    style input fill:transparent,stroke:#6b7280,color:#d1d5db
+    style output fill:transparent,stroke:#6b7280,color:#d1d5db
 ```
 
 ---
@@ -413,19 +413,19 @@ gantt
 
 ```mermaid
 mindmap
-  root((🎯 ผลลัพธ์<br/>3 ปี))
-    📄 Scopus Journal
-      6–10 เรื่อง
-    📑 Scopus Proceeding
-      6–8 เรื่อง
-    💰 ทุนวิจัย
-      4–6 โครงการ
-    💻 ระบบ/ซอฟต์แวร์
-      4–6 ระบบ
-    📜 ทรัพย์สินทางปัญญา
-      2–4 รายการ
-    🎓 ตำแหน่งวิชาการ
-      ผศ. ภายในปีที่ 3
+  root(("🎯 ผลลัพธ์ 3 ปี"))
+    )"📄 Scopus Journal"(
+      6 to 10 เรื่อง
+    )"📑 Scopus Proceeding"(
+      6 to 8 เรื่อง
+    )"💰 ทุนวิจัย"(
+      4 to 6 โครงการ
+    )"💻 ระบบ ซอฟตแวร"(
+      4 to 6 ระบบ
+    )"📜 ทรัพยสินทางปัญญา"(
+      2 to 4 รายการ
+    )"🎓 ตำแหนงวิชาการ"(
+      ผศ ภายในปีที่ 3
 ```
 
 </div>
@@ -468,12 +468,13 @@ mindmap
 </table>
 
 ```mermaid
-pie title 📊 สัดส่วนผลลัพธ์ที่คาดหวัง (3 ปี)
-    "📄 Scopus Journal (6–10)" : 10
-    "📑 Scopus Proceeding (6–8)" : 8
-    "💰 ทุนวิจัย (4–6)" : 6
-    "💻 ระบบ/ซอฟต์แวร์ (4–6)" : 6
-    "📜 ทรัพย์สินทางปัญญา (2–4)" : 4
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#f59e0b', 'pie4': '#a855f7', 'pie5': '#ef4444', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
+pie title สัดส่วนผลลัพธ์ที่คาดหวัง 3 ปี
+    "Scopus Journal 6-10" : 10
+    "Scopus Proceeding 6-8" : 8
+    "ทุนวิจัย 4-6" : 6
+    "ระบบ ซอฟตแวร 4-6" : 6
+    "ทรัพยสินทางปัญญา 2-4" : 4
 ```
 
 ---

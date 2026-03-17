@@ -60,6 +60,7 @@
 ## 📊 Assessment
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#3b82f6', 'pie2': '#eab308', 'pie3': '#22c55e', 'pie4': '#f97316', 'pie5': '#a855f7', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
 pie title สัดส่วนการประเมิน
     "Lab Assignments" : 20
     "Midterm Exam" : 20
