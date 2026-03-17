@@ -89,8 +89,8 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#eab308', 'pie4': '#a855f7', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
-pie title Publication Pipeline - 32 papers
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#eab308', 'pie4': '#a855f7', 'pieTitleTextColor': '#1f2937', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#1f2937', 'pieTitleTextSize': '18px'}}}%%
+pie title Publication Pipeline — 32 papers
     "Published (7)" : 7
     "Accepted (2)" : 2
     "Under Review (6)" : 6

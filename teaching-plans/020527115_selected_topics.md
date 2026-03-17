@@ -65,7 +65,7 @@
 ## 📊 Assessment
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#3b82f6', 'pie2': '#eab308', 'pie3': '#06b6d4', 'pie4': '#22c55e', 'pie5': '#f97316', 'pie6': '#a855f7', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#3b82f6', 'pie2': '#eab308', 'pie3': '#06b6d4', 'pie4': '#22c55e', 'pie5': '#f97316', 'pie6': '#a855f7', 'pieTitleTextColor': '#1f2937', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#1f2937'}}}%%
 pie title สัดส่วนการประเมิน
     "Lab Assignments (6x)" : 20
     "Midterm Exam" : 15

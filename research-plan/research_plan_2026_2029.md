@@ -468,7 +468,7 @@ mindmap
 </table>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#f59e0b', 'pie4': '#a855f7', 'pie5': '#ef4444', 'pieTitleTextColor': '#e5e7eb', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#e5e7eb'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#f59e0b', 'pie4': '#a855f7', 'pie5': '#ef4444', 'pieTitleTextColor': '#1f2937', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#1f2937'}}}%%
 pie title สัดส่วนผลลัพธ์ที่คาดหวัง 3 ปี
     "Scopus Journal 6-10" : 10
     "Scopus Proceeding 6-8" : 8
