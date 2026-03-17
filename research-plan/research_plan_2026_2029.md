@@ -49,7 +49,6 @@
 | ระดับ | สาขา | สถาบัน |
 |:---:|:---|:---|
 | ![](https://img.shields.io/badge/ปร.ด.-003366?style=flat-square&logo=googlescholar&logoColor=gold) | การบริหารธุรกิจอุตสาหกรรม | มจพ. *(GPA 3.91)* |
-| ![](https://img.shields.io/badge/ปร.ด.-003366?style=flat-square&logo=googlescholar&logoColor=gold) | เทคโนโลยีสารสนเทศ | ม.มหานคร |
 | ![](https://img.shields.io/badge/วท.ม.-1a5276?style=flat-square&logo=googlescholar&logoColor=silver) | เทคโนโลยีสารสนเทศ | มจธ. |
 | ![](https://img.shields.io/badge/วศ.บ.-2471a3?style=flat-square&logo=googlescholar&logoColor=white) | วิศวกรรมสารสนเทศฯ | มฟล. |
 

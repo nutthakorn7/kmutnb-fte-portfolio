@@ -10,7 +10,7 @@
 
 ---
 
-![Education](https://img.shields.io/badge/Education-D.B.A._(KMUTNB)_|_Ph.D._(MUT)_|_M.Sc._(KMUTT)_|_B.Eng._(MFLU)-0072B1?style=for-the-badge)
+![Education](https://img.shields.io/badge/Education-D.B.A._(KMUTNB)_|_M.Sc._(KMUTT)_|_B.Eng._(MFLU)-0072B1?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Publications-32+_Papers-2EA44F?style=for-the-badge)
 ![Teaching](https://img.shields.io/badge/Teaching-9_Courses_|_3_Universities-E97627?style=for-the-badge)
 ![Certs](https://img.shields.io/badge/Certifications-138+-8B5CF6?style=for-the-badge)
@@ -26,7 +26,7 @@
 | | |
 |---|---|
 | 🎓 **Education** | **D.B.A.** Industrial Business Administration — KMUTNB *(GPA 3.91)* |
-| | **Ph.D.** Information Technology — Mahanakorn University of Technology |
+
 | | **M.Sc.** Information Technology — KMUTT |
 | | **B.Eng.** Information and Communication Engineering — MFLU |
 | 🏫 **Academic** | Lecturer @ KOSEN-KMITL · KMUTNB · MFLU |
