@@ -1,103 +1,113 @@
-# แผนการสอน (Course Syllabus)
+<div align="center">
 
-## วิชา 020525010 การวิเคราะห์และออกแบบระบบเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา
-**Analysis and Design of Information Technology and Artificial Intelligence Systems for Education**
+# 📐 020525010
+## การวิเคราะห์และออกแบบระบบเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา
+### Analysis and Design of IT & AI Systems for Education
 
-| รายการ | รายละเอียด |
-|---|---|
-| **หลักสูตร** | วท.ม. / ปร.ด. เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา |
-| **คณะ** | คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ |
-| **ภาควิชา** | ครุศาสตร์เทคโนโลยีและสารสนเทศ |
-| **จำนวนหน่วยกิต** | 3 หน่วยกิต (3-0-6) |
-| **ภาคเรียน/ปีการศึกษา** | ภาคเรียนที่ 1/2569 |
+![Credits](https://img.shields.io/badge/Credits-3_(3--0--6)-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Graduate-green?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-1/2569-orange?style=for-the-badge)
 
----
-
-## 1. คำอธิบายรายวิชา (Course Description)
-
-ศึกษาหลักการ แนวคิด และกระบวนการวิเคราะห์และออกแบบระบบเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา ครอบคลุมการวิเคราะห์ความต้องการ การออกแบบสถาปัตยกรรมระบบ การเลือกใช้เทคโนโลยี AI ที่เหมาะสม การพัฒนาระบบต้นแบบ และการประเมินประสิทธิภาพ โดยเน้นการประยุกต์ใช้ในบริบทการศึกษาไทยและสากล
-
-Study of principles, concepts, and processes in analysis and design of information technology and artificial intelligence systems for education, covering requirements analysis, system architecture design, appropriate AI technology selection, prototype development, and performance evaluation with emphasis on applications in Thai and international educational contexts.
+</div>
 
 ---
 
-## 2. วัตถุประสงค์การเรียนรู้ (Learning Objectives)
+## 📋 Course Description
 
-เมื่อเรียนจบรายวิชานี้ นักศึกษาสามารถ:
+> ศึกษาหลักการ แนวคิด และกระบวนการวิเคราะห์และออกแบบระบบเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา ครอบคลุมการวิเคราะห์ความต้องการ การออกแบบสถาปัตยกรรมระบบ การเลือกใช้เทคโนโลยี AI ที่เหมาะสม การพัฒนาระบบต้นแบบ และการประเมินประสิทธิภาพ
 
-1. **อธิบาย** หลักการวิเคราะห์และออกแบบระบบสารสนเทศเพื่อการศึกษาได้
-2. **วิเคราะห์** ความต้องการของผู้ใช้และผู้เรียนเพื่อกำหนดข้อกำหนดของระบบ
-3. **ออกแบบ** สถาปัตยกรรมระบบที่ผสมผสาน AI เข้ากับกระบวนการทางการศึกษา
-4. **เลือกใช้** เทคโนโลยี AI ที่เหมาะสม เช่น Machine Learning, NLP, Generative AI ในการแก้ปัญหาทางการศึกษา
-5. **พัฒนา** ระบบต้นแบบ (Prototype) ที่ใช้ AI เพื่อการศึกษาได้
-6. **ประเมิน** ประสิทธิภาพและความเหมาะสมของระบบที่พัฒนาขึ้น
+> [!NOTE]
+> Study of principles, concepts, and processes in analysis and design of IT & AI systems for education — covering requirements analysis, system architecture, AI technology selection, prototyping, and evaluation.
 
 ---
 
-## 3. เนื้อหารายสัปดาห์ (Weekly Schedule)
+## 🎯 Learning Objectives
 
-| สัปดาห์ | หัวข้อ | กิจกรรม |
+| # | Objective | Bloom's Level |
+|:---:|---|:---:|
+| 1 | **อธิบาย** หลักการวิเคราะห์และออกแบบระบบสารสนเทศเพื่อการศึกษา | 💡 Understand |
+| 2 | **วิเคราะห์** ความต้องการของผู้ใช้เพื่อกำหนดข้อกำหนดของระบบ | 🔍 Analyze |
+| 3 | **ออกแบบ** สถาปัตยกรรมระบบที่ผสมผสาน AI กับการศึกษา | 🏗️ Create |
+| 4 | **เลือกใช้** เทคโนโลยี AI ที่เหมาะสม (ML, NLP, GenAI) | ⚡ Apply |
+| 5 | **พัฒนา** ระบบต้นแบบ AI เพื่อการศึกษา | 🛠️ Create |
+| 6 | **ประเมิน** ประสิทธิภาพและความเหมาะสมของระบบ | 📊 Evaluate |
+
+---
+
+## 📅 Weekly Schedule
+
+| 🗓️ | หัวข้อ | 📝 กิจกรรม |
 |:---:|---|---|
-| **1** | แนะนำรายวิชา ภาพรวมของ IT & AI ในการศึกษายุคดิจิทัล | บรรยาย + อภิปราย แนวโน้ม AI in Education |
-| **2** | หลักการวิเคราะห์ระบบ (Systems Analysis Fundamentals) | บรรยาย + กรณีศึกษา LMS ที่ประสบความสำเร็จ |
-| **3** | การวิเคราะห์ความต้องการผู้ใช้ (User Requirements Analysis) | Workshop: สัมภาษณ์ผู้ใช้จริง + สร้าง User Persona |
-| **4** | การออกแบบ UX/UI สำหรับระบบการศึกษา | Workshop: Wireframing + Prototyping ด้วย Figma |
-| **5** | สถาปัตยกรรมระบบสารสนเทศเพื่อการศึกษา | บรรยาย + Lab: ออกแบบ System Architecture |
-| **6** | ปัญญาประดิษฐ์พื้นฐานเพื่อการศึกษา (ML, DL, NLP) | บรรยาย + Demo: ทดลองใช้ AI APIs |
-| **7** | Intelligent Tutoring Systems & Adaptive Learning | กรณีศึกษา + วิเคราะห์ระบบ ITS ที่มีอยู่ |
-| **8** | **สอบกลางภาค (Midterm Examination)** | สอบข้อเขียน + กรณีศึกษา |
-| **9** | Generative AI & Large Language Models ในการศึกษา | Lab: Prompt Engineering, Fine-tuning สำหรับ EdTech |
-| **10** | Learning Analytics & Educational Data Mining | Lab: วิเคราะห์ข้อมูลผู้เรียนด้วย Python |
-| **11** | การออกแบบ Chatbot & AI Assistant เพื่อการเรียนรู้ | Workshop: สร้าง Educational Chatbot |
-| **12** | การประเมินและทดสอบระบบ (System Evaluation) | บรรยาย + ฝึกปฏิบัติ Usability Testing |
-| **13** | จริยธรรม AI ในการศึกษา (AI Ethics in Education) | อภิปราย + กรณีศึกษา |
-| **14** | นำเสนอโครงงาน (Project Presentation) รอบที่ 1 | นำเสนอ + ข้อเสนอแนะจากอาจารย์และเพื่อน |
-| **15** | นำเสนอโครงงาน (Project Presentation) รอบสุดท้าย | นำเสนอผลงานสมบูรณ์ |
-| **16** | **สอบปลายภาค (Final Examination)** | สอบข้อเขียน + โครงงาน |
+| **1** | 🌟 แนะนำรายวิชา — ภาพรวม IT & AI ในการศึกษายุคดิจิทัล | บรรยาย + อภิปรายแนวโน้ม |
+| **2** | 📊 หลักการวิเคราะห์ระบบ (Systems Analysis Fundamentals) | บรรยาย + กรณีศึกษา LMS |
+| **3** | 👥 การวิเคราะห์ความต้องการผู้ใช้ (User Requirements) | Workshop: สัมภาษณ์ + User Persona |
+| **4** | 🎨 การออกแบบ UX/UI สำหรับระบบการศึกษา | Workshop: Wireframing + Figma |
+| **5** | 🏗️ สถาปัตยกรรมระบบสารสนเทศเพื่อการศึกษา | บรรยาย + Lab: System Architecture |
+| **6** | 🤖 AI พื้นฐานเพื่อการศึกษา (ML, DL, NLP) | บรรยาย + Demo: AI APIs |
+| **7** | 🧠 Intelligent Tutoring Systems & Adaptive Learning | กรณีศึกษา + วิเคราะห์ ITS |
+| **8** | 📝 **สอบกลางภาค (Midterm Examination)** | ข้อเขียน + กรณีศึกษา |
+| **9** | 🚀 Generative AI & LLMs ในการศึกษา | Lab: Prompt Engineering + Fine-tuning |
+| **10** | 📈 Learning Analytics & Educational Data Mining | Lab: วิเคราะห์ข้อมูลด้วย Python |
+| **11** | 💬 การออกแบบ Chatbot & AI Assistant เพื่อการเรียนรู้ | Workshop: สร้าง Educational Chatbot |
+| **12** | ✅ การประเมินและทดสอบระบบ (System Evaluation) | Lab: Usability Testing |
+| **13** | ⚖️ จริยธรรม AI ในการศึกษา (AI Ethics) | อภิปราย + กรณีศึกษา |
+| **14** | 🎤 นำเสนอโครงงาน รอบที่ 1 | นำเสนอ + Feedback |
+| **15** | 🎤 นำเสนอโครงงาน รอบสุดท้าย | นำเสนอผลงานสมบูรณ์ |
+| **16** | 📝 **สอบปลายภาค (Final Examination)** | ข้อเขียน + โครงงาน |
 
 ---
 
-## 4. วิธีการสอน (Teaching Methods)
+## 📊 Assessment
 
-| วิธีการ | สัดส่วน |
-|---|:---:|
-| บรรยายเชิงโต้ตอบ (Interactive Lecture) | 30% |
-| ปฏิบัติการ/Workshop (Hands-on Lab) | 35% |
-| กรณีศึกษาและอภิปราย (Case Study & Discussion) | 15% |
-| โครงงาน (Project-Based Learning) | 20% |
-
-**แนวทางการสอนหลัก:**
-- **Learning by Doing** — ให้นักศึกษาลงมือสร้างระบบจริง
-- **Research-Integrated Teaching** — นำงานวิจัยล่าสุดมาเป็นเนื้อหา
-- **Industry-Connected** — เชิญวิทยากรจากภาคอุตสาหกรรม EdTech
-
----
-
-## 5. การวัดและประเมินผล (Assessment)
+```mermaid
+pie title สัดส่วนการประเมิน
+    "Lab Assignments" : 20
+    "Midterm Exam" : 20
+    "Final Project" : 30
+    "Final Exam" : 20
+    "Participation" : 10
+```
 
 | รายการ | สัดส่วน |
 |---|:---:|
-| การมีส่วนร่วมในชั้นเรียนและอภิปราย | 10% |
-| แบบฝึกหัดและงานปฏิบัติ (Lab Assignments) | 20% |
-| สอบกลางภาค (Midterm Exam) | 20% |
-| โครงงานกลุ่ม: ออกแบบและพัฒนาระบบ AI เพื่อการศึกษา | 30% |
-| สอบปลายภาค (Final Exam) | 20% |
+| 💬 การมีส่วนร่วมในชั้นเรียน | 10% |
+| 💻 แบบฝึกปฏิบัติ (Lab Assignments) | 20% |
+| 📝 สอบกลางภาค | 20% |
+| 🚀 โครงงานกลุ่ม: ระบบ AI เพื่อการศึกษา | 30% |
+| 📝 สอบปลายภาค | 20% |
 
 ---
 
-## 6. ทรัพยากรการเรียนรู้ (Learning Resources)
+## 🔧 Teaching Methods
 
-### ตำราหลัก
-- Luckin, R. (2018). *Machine Learning and Human Intelligence: The Future of Education for the 21st Century*. UCL IOE Press.
-- Holmes, W., Bialik, M., & Fadel, C. (2023). *Artificial Intelligence in Education: Promises and Implications for Teaching and Learning*. Center for Curriculum Redesign.
+> [!TIP]
+> **แนวทาง "Build to Learn"** — เน้นให้นักศึกษาลงมือสร้างระบบจริง ไม่ใช่แค่ทฤษฎี
 
-### แหล่งเรียนรู้ออนไลน์
-- Google AI for Education
-- UNESCO AI and Education Resources
-- Papers with Code — Education Category
+| วิธีการ | สัดส่วน | รายละเอียด |
+|---|:---:|---|
+| 🎓 บรรยายเชิงโต้ตอบ | 30% | Interactive Lecture + Q&A |
+| 🛠️ ปฏิบัติการ/Workshop | 35% | Hands-on Lab + Coding |
+| 📖 กรณีศึกษา | 15% | Case Study & Discussion |
+| 🚀 โครงงาน | 20% | Project-Based Learning |
 
-### เครื่องมือที่ใช้ในปฏิบัติการ
-- Python (Jupyter Notebook / Google Colab)
-- Hugging Face Transformers
-- OpenAI / Google Gemini APIs
-- Figma (UX/UI Design)
+---
+
+## 📚 Resources
+
+### Textbooks
+- 📘 Luckin, R. (2018). *Machine Learning and Human Intelligence*. UCL IOE Press.
+- 📗 Holmes, W. et al. (2023). *Artificial Intelligence in Education*. CCR.
+
+### Tools & Platforms
+- 🐍 Python (Jupyter / Google Colab)
+- 🤗 Hugging Face Transformers
+- 🔑 OpenAI / Google Gemini APIs
+- 🎨 Figma (UX/UI Design)
+
+---
+
+<div align="center">
+
+*คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ*
+
+</div>

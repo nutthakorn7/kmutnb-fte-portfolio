@@ -1,82 +1,100 @@
-# แผนการสอน (Course Syllabus)
+<div align="center">
 
-## วิชา 020527112 จิตวิทยาเพื่อการออกแบบและพัฒนาเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา
-**Psychology for Design and Development of Information Technology and Artificial Intelligence for Education**
+# 🧠 020527112
+## จิตวิทยาเพื่อการออกแบบและพัฒนาเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา
+### Psychology for Design and Development of IT & AI for Education
 
-| รายการ | รายละเอียด |
-|---|---|
-| **หลักสูตร** | วท.ม. / ปร.ด. เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา |
-| **คณะ** | คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ |
-| **ภาควิชา** | ครุศาสตร์เทคโนโลยีและสารสนเทศ |
-| **จำนวนหน่วยกิต** | 3 หน่วยกิต (3-0-6) |
-| **ภาคเรียน/ปีการศึกษา** | ภาคเรียนที่ 1/2569 |
+![Credits](https://img.shields.io/badge/Credits-3_(3--0--6)-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Graduate-green?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-1/2569-orange?style=for-the-badge)
 
----
-
-## 1. คำอธิบายรายวิชา (Course Description)
-
-ศึกษาทฤษฎีและหลักการทางจิตวิทยาที่เกี่ยวข้องกับการออกแบบและพัฒนาเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา ครอบคลุมจิตวิทยาการเรียนรู้ จิตวิทยาการรับรู้ การออกแบบประสบการณ์ผู้ใช้ แรงจูงใจในการเรียนรู้ ภาระทางปัญญา และการประยุกต์ใช้หลักจิตวิทยาในการพัฒนา AI ที่เข้าใจผู้เรียน
-
-Study of psychological theories and principles related to the design and development of information technology and artificial intelligence for education, covering learning psychology, cognitive psychology, user experience design, learning motivation, cognitive load, and the application of psychological principles in developing learner-aware AI systems.
+</div>
 
 ---
 
-## 2. วัตถุประสงค์การเรียนรู้ (Learning Objectives)
+## 📋 Course Description
 
-เมื่อเรียนจบรายวิชานี้ นักศึกษาสามารถ:
+> ศึกษาทฤษฎีและหลักการทางจิตวิทยาที่เกี่ยวข้องกับการออกแบบและพัฒนาเทคโนโลยีสารสนเทศและปัญญาประดิษฐ์เพื่อการศึกษา ครอบคลุมจิตวิทยาการเรียนรู้ จิตวิทยาการรับรู้ UX Psychology แรงจูงใจ และการประยุกต์ใช้ AI ที่เข้าใจผู้เรียน
 
-1. **อธิบาย** ทฤษฎีการเรียนรู้หลักและความเชื่อมโยงกับการออกแบบเทคโนโลยีการศึกษาได้
-2. **วิเคราะห์** ปัจจัยทางจิตวิทยาที่ส่งผลต่อการเรียนรู้ผ่านเทคโนโลยี
-3. **ประยุกต์** หลัก Cognitive Load Theory ในการออกแบบสื่อและอินเทอร์เฟซ
-4. **ออกแบบ** ระบบเทคโนโลยีการศึกษาที่คำนึงถึงแรงจูงใจและความแตกต่างของผู้เรียน
-5. **ประเมิน** ผลกระทบทางจิตวิทยาของ AI ต่อกระบวนการเรียนรู้
-6. **สังเคราะห์** แนวทางการนำจิตวิทยามาใช้ในการพัฒนา Personalized AI อย่างมีจริยธรรม
+> [!NOTE]
+> Study of psychological theories and principles for designing learner-centered EdTech and AI systems — covering learning psychology, cognitive load, UX design, motivation, and affective computing.
 
 ---
 
-## 3. เนื้อหารายสัปดาห์ (Weekly Schedule)
+## 🎯 Learning Objectives
 
-| สัปดาห์ | หัวข้อ | กิจกรรม |
+| # | Objective | Bloom's Level |
+|:---:|---|:---:|
+| 1 | **อธิบาย** ทฤษฎีการเรียนรู้หลักและเชื่อมโยงกับ EdTech | 💡 Understand |
+| 2 | **วิเคราะห์** ปัจจัยจิตวิทยาที่ส่งผลต่อการเรียนผ่านเทคโนโลยี | 🔍 Analyze |
+| 3 | **ประยุกต์** Cognitive Load Theory ในการออกแบบสื่อ | ⚡ Apply |
+| 4 | **ออกแบบ** ระบบ EdTech ที่คำนึงถึงแรงจูงใจผู้เรียน | 🏗️ Create |
+| 5 | **ประเมิน** ผลกระทบทางจิตวิทยาของ AI ต่อผู้เรียน | 📊 Evaluate |
+| 6 | **สังเคราะห์** แนวทาง Personalized AI อย่างมีจริยธรรม | 🧩 Synthesize |
+
+---
+
+## 📅 Weekly Schedule
+
+| 🗓️ | หัวข้อ | 📝 กิจกรรม |
 |:---:|---|---|
-| **1** | แนะนำรายวิชา: จิตวิทยาพบเทคโนโลยี — ทำไมต้องเข้าใจผู้เรียนก่อนสร้างระบบ | บรรยาย + อภิปราย |
-| **2** | ทฤษฎีการเรียนรู้ (1): Behaviorism & Cognitivism | บรรยาย + วิเคราะห์ EdTech ที่ใช้แต่ละทฤษฎี |
-| **3** | ทฤษฎีการเรียนรู้ (2): Constructivism & Connectivism | Workshop: ออกแบบกิจกรรมการเรียนรู้ตามทฤษฎี |
-| **4** | จิตวิทยาการรับรู้ (Cognitive Psychology): ความจำ ความสนใจ การประมวลผลข้อมูล | บรรยาย + ทดลอง Cognitive Experiments |
-| **5** | Cognitive Load Theory และการออกแบบสื่อ Multimedia | Workshop: วิเคราะห์ Cognitive Load ของสื่อที่มีอยู่ |
-| **6** | UX Psychology: หลักการออกแบบอินเทอร์เฟซที่เป็นมิตรกับผู้เรียน | Lab: Heuristic Evaluation ของแอปการศึกษา |
-| **7** | แรงจูงใจในการเรียนรู้: Self-Determination Theory & Flow Theory | กรณีศึกษา: Duolingo, Khan Academy |
-| **8** | **สอบกลางภาค (Midterm Examination)** | สอบข้อเขียน + วิเคราะห์กรณีศึกษา |
-| **9** | Gamification & Game-Based Learning: จิตวิทยาเบื้องหลัง | Workshop: ออกแบบ Gamification สำหรับวิชาที่กำหนด |
-| **10** | ความแตกต่างระหว่างบุคคล: Learning Styles, Multiple Intelligences, Neurodiversity | อภิปราย + ออกแบบ Inclusive Learning |
-| **11** | จิตวิทยาของ AI: Human-AI Interaction ในบริบทการศึกษา | Lab: ทดลอง AI Tutor + วิเคราะห์พฤติกรรมผู้ใช้ |
-| **12** | Affective Computing: AI ที่เข้าใจอารมณ์ผู้เรียน | บรรยาย + Demo: Emotion Recognition |
-| **13** | จิตวิทยาเชิงบวกในเทคโนโลยีการศึกษา & Digital Well-being | อภิปราย: ผลกระทบทางจิตของ Screen Time |
-| **14** | จริยธรรมทางจิตวิทยาของ AI ในการศึกษา | อภิปราย: Privacy, Manipulation, Autonomy |
-| **15** | นำเสนอโครงงาน: การออกแบบระบบ EdTech โดยใช้หลักจิตวิทยา | นำเสนอ + Peer Review |
-| **16** | **สอบปลายภาค (Final Examination)** | สอบข้อเขียน + โครงงาน |
+| **1** | 🌟 จิตวิทยาพบเทคโนโลยี — ทำไมต้องเข้าใจผู้เรียนก่อนสร้างระบบ | บรรยาย + อภิปราย |
+| **2** | 📖 ทฤษฎีการเรียนรู้ (1): Behaviorism & Cognitivism | บรรยาย + วิเคราะห์ EdTech |
+| **3** | 🏗️ ทฤษฎีการเรียนรู้ (2): Constructivism & Connectivism | Workshop: ออกแบบกิจกรรม |
+| **4** | 🧠 จิตวิทยาการรับรู้: ความจำ ความสนใจ การประมวลผล | บรรยาย + Cognitive Experiments |
+| **5** | ⚡ Cognitive Load Theory และการออกแบบ Multimedia | Workshop: วิเคราะห์ Cognitive Load |
+| **6** | 🎨 UX Psychology: ออกแบบอินเทอร์เฟซที่เป็นมิตร | Lab: Heuristic Evaluation |
+| **7** | 🎮 แรงจูงใจ: Self-Determination Theory & Flow | กรณีศึกษา: Duolingo, Khan Academy |
+| **8** | 📝 **สอบกลางภาค (Midterm Examination)** | ข้อเขียน + กรณีศึกษา |
+| **9** | 🕹️ Gamification & Game-Based Learning | Workshop: ออกแบบ Gamification |
+| **10** | 🌈 ความแตกต่างระหว่างบุคคล: Learning Styles & Neurodiversity | อภิปราย + Inclusive Design |
+| **11** | 🤖 Human-AI Interaction ในบริบทการศึกษา | Lab: ทดลอง AI Tutor |
+| **12** | 💚 Affective Computing: AI ที่เข้าใจอารมณ์ผู้เรียน | บรรยาย + Demo |
+| **13** | ☀️ จิตวิทยาเชิงบวก & Digital Well-being | อภิปราย: Screen Time |
+| **14** | ⚖️ จริยธรรมทางจิตวิทยาของ AI ในการศึกษา | อภิปราย: Privacy & Autonomy |
+| **15** | 🎤 นำเสนอโครงงาน | นำเสนอ + Peer Review |
+| **16** | 📝 **สอบปลายภาค (Final Examination)** | ข้อเขียน + โครงงาน |
 
 ---
 
-## 4. การวัดและประเมินผล (Assessment)
+## 📊 Assessment
+
+```mermaid
+pie title สัดส่วนการประเมิน
+    "Case Analysis" : 15
+    "UX/Cognitive Lab" : 15
+    "Midterm Exam" : 20
+    "Final Project" : 20
+    "Final Exam" : 20
+    "Participation" : 10
+```
 
 | รายการ | สัดส่วน |
 |---|:---:|
-| การมีส่วนร่วมและอภิปรายในชั้นเรียน | 10% |
-| รายงานวิเคราะห์กรณีศึกษา (Case Analysis Reports) | 15% |
-| แบบฝึกปฏิบัติ UX/UI & Cognitive Load Analysis | 15% |
-| สอบกลางภาค (Midterm Exam) | 20% |
-| โครงงาน: ออกแบบระบบ EdTech ที่ใช้หลักจิตวิทยา | 20% |
-| สอบปลายภาค (Final Exam) | 20% |
+| 💬 การมีส่วนร่วมและอภิปราย | 10% |
+| 📖 รายงานวิเคราะห์กรณีศึกษา | 15% |
+| 🎨 แบบฝึก UX/UI & Cognitive Load | 15% |
+| 📝 สอบกลางภาค | 20% |
+| 🚀 โครงงาน: ออกแบบ EdTech ด้วยหลักจิตวิทยา | 20% |
+| 📝 สอบปลายภาค | 20% |
 
 ---
 
-## 5. ทรัพยากรการเรียนรู้ (Learning Resources)
+## 📚 Resources
 
-### ตำราหลัก
-- Clark, R. C., & Mayer, R. E. (2023). *e-Learning and the Science of Instruction* (5th ed.). Wiley.
-- Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press.
-- Schunk, D. H. (2020). *Learning Theories: An Educational Perspective* (8th ed.). Pearson.
+### Textbooks
+- 📘 Clark, R. & Mayer, R. (2023). *e-Learning and the Science of Instruction* (5th ed.)
+- 📗 Mayer, R. (2021). *Multimedia Learning* (3rd ed.)
+- 📕 Schunk, D. (2020). *Learning Theories* (8th ed.)
 
-### ตำราเสริม
-- Norman, D. (2013). *The Design of Everyday Things*. Basic Books.
-- Csikszentmihalyi, M. (2008). *Flow: The Psychology of Optimal Experience*. Harper.
+### Recommended Reading
+- 📙 Norman, D. (2013). *The Design of Everyday Things*
+- 📓 Csikszentmihalyi, M. (2008). *Flow: The Psychology of Optimal Experience*
+
+---
+
+<div align="center">
+
+*คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ*
+
+</div>
