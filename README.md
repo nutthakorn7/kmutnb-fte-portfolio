@@ -140,6 +140,7 @@ graph LR
 - Lab Work 4: Basic Computer Engineering (GitHub, Docker, Cloud)
 - Cloud Infrastructure and Security (AWS)
 - Software Security 2
+- Project-Based Learning (PBL)
 
 ### Mae Fah Luang University *(Aug – Nov 2025)*
 - Software Security
