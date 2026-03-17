@@ -105,13 +105,11 @@ graph LR
 |:---:|---|---|:---:|:---:|
 | 1 | ThaiScamBench: Toward a Benchmark Dataset for Scam and Phishing Detection in the Thai Language | ICSEC 2025 | 2025 | ✅ Published |
 | 2 | A Competency Development Framework for Digital Workforce in Industrial Business Organizations | WSEAS | 2025 | ✅ Published |
-| 3 | Enhancing Organizational Cyber Resilience | — | 2024 | ✅ Published |
-| 4 | Detection of Phishing URLs in the Thai Context | — | 2023 | ✅ Published |
-| 5 | A Practical National Digital ID Framework on Blockchain (NiDBC) | ECTI-CON | 2018 | ✅ Published |
-| 6 | State of the Art and Challenges of Consensus Protocols on Blockchain | ICOIN | 2018 | ✅ Published |
-| 7 | Mobile Cloud Computing: A Survey and Propose Solution Framework | ECTI-CON | 2016 | ✅ Published |
-| 8 | Risk Management of Mobile Cloud Computing | ICITEe | 2015 | ✅ Published |
-| 9 | A Practical DRM Framework and Privacy on Cloud | ITC-CSCC | 2014 | ✅ Published |
+| 3 | A Practical National Digital ID Framework on Blockchain (NiDBC) | ECTI-CON | 2018 | ✅ Published |
+| 4 | State of the Art and Challenges of Consensus Protocols on Blockchain | ICOIN | 2018 | ✅ Published |
+| 5 | Mobile Cloud Computing: A Survey and Propose Solution Framework | ECTI-CON | 2016 | ✅ Published |
+| 6 | Risk Management of Mobile Cloud Computing | ICITEe | 2015 | ✅ Published |
+| 7 | A Practical DRM Framework and Privacy on Cloud | ITC-CSCC | 2014 | ✅ Published |
 
 ### Under Review & Accepted
 
