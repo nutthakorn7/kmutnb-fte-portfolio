@@ -92,8 +92,8 @@
 %%{init: {'theme': 'base', 'themeVariables': {'pie1': '#22c55e', 'pie2': '#3b82f6', 'pie3': '#eab308', 'pie4': '#a855f7', 'pieTitleTextColor': '#1f2937', 'pieSectionTextColor': '#fff', 'pieLegendTextColor': '#1f2937', 'pieTitleTextSize': '18px'}}}%%
 pie title Publication Pipeline — 32 papers
     "Published (7)" : 7
-    "Accepted (2)" : 2
-    "Under Review (6)" : 6
+    "Accepted (3)" : 3
+    "Under Review (5)" : 5
     "In Progress (17)" : 17
 ```
 
@@ -151,7 +151,7 @@ graph LR
 </details>
 
 <details>
-<summary>🟢🟡 <b>Accepted (2) & Under Review (6)</b> — Click to expand</summary>
+<summary>🟢🟡 <b>Accepted (3) & Under Review (5)</b> — Click to expand</summary>
 <br/>
 
 | # | Title | Venue | Year | Status |
@@ -159,7 +159,7 @@ graph LR
 | 1 | Workload-Aware Storage Reduction for Multi-Tenant SIEM on ClickHouse | ![](https://img.shields.io/badge/IJACSA-2026-0D6EFD?style=flat-square) | 2026 | 🟢 Accepted |
 | 2 | Comparative Evaluation of Log Reduction Techniques Using Vector | ![](https://img.shields.io/badge/ECTI--CIT-2025-0D6EFD?style=flat-square) | 2025 | 🟢 Accepted |
 | 3 | ThaiScamBench and Beyond XLR: Bridging the Lab-to-Production Gap | ![](https://img.shields.io/badge/ICIC_Express-2026-FFC107?style=flat-square) | 2026 | 🟡 Under Review |
-| 4 | AI-Driven Log Reduction and Storage Optimization for Security Operations | ![](https://img.shields.io/badge/IJECE-2026-FFC107?style=flat-square) | 2026 | 🟡 Under Review |
+| 4 | AI-Driven Log Reduction and Storage Optimization for Security Operations | ![](https://img.shields.io/badge/IJECE-2026-0D6EFD?style=flat-square) | 2026 | 🟢 Accepted |
 | 5 | Context-Aware Security Telemetry Reduction: Streaming Architecture for SOC | ![](https://img.shields.io/badge/IEEE_Access-2026-FFC107?style=flat-square) | 2026 | 🟡 Under Review |
 | 6 | HMARL-SOC: Hierarchical Multi-Agent RL for Autonomous SOC Operations | ![](https://img.shields.io/badge/ITC--CSCC-2026-FFC107?style=flat-square) | 2026 | 🟡 Under Review |
 | 7 | Automated Security Alert Analysis Using LLMs for SOC | ![](https://img.shields.io/badge/Wiley_ETRI-2026-FFC107?style=flat-square) | 2026 | 🟡 Under Review |
