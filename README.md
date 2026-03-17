@@ -99,17 +99,36 @@ graph LR
     style D fill:#ef4444,stroke:#dc2626,color:#fff
 ```
 
-### Selected Publications
+### Published & Accepted Papers
 
 | # | Title | Venue | Year | Status |
 |:---:|---|---|:---:|:---:|
-| 1 | ThaiScamBench: Benchmark Dataset for Thai Scam/Phishing Detection | ICSEC | 2025 | ✅ |
-| 2 | A Competency Development Framework for Digital Workforce | WSEAS | 2025 | ✅ |
-| 3 | HMARL-SOC: Multi-Agent RL for Autonomous SOC | IEEE Access | 2026 | 🟡 |
-| 4 | Automated Security Alert Analysis Using LLMs for SOC | Wiley ETRI | 2026 | 🟡 |
-| 5 | Context-Aware Security Telemetry Reduction | IEEE Access | 2026 | 🟡 |
-| 6 | AI-Driven Log Reduction and Storage Optimization | IJECE | 2026 | 🟡 |
-| 7 | SALAD: Unified Benchmark for SOC Alert Classification | HuggingFace | 2026 | 🔵 |
+| 1 | ThaiScamBench: Toward a Benchmark Dataset for Scam and Phishing Detection in the Thai Language | ICSEC 2025 | 2025 | ✅ Published |
+| 2 | A Competency Development Framework for Digital Workforce in Industrial Business Organizations | WSEAS | 2025 | ✅ Published |
+| 3 | Enhancing Organizational Cyber Resilience | — | 2024 | ✅ Published |
+| 4 | Detection of Phishing URLs in the Thai Context | — | 2023 | ✅ Published |
+| 5 | A Practical National Digital ID Framework on Blockchain (NiDBC) | ECTI-CON | 2018 | ✅ Published |
+| 6 | State of the Art and Challenges of Consensus Protocols on Blockchain | ICOIN | 2018 | ✅ Published |
+| 7 | Mobile Cloud Computing: A Survey and Propose Solution Framework | ECTI-CON | 2016 | ✅ Published |
+| 8 | Risk Management of Mobile Cloud Computing | ICITEe | 2015 | ✅ Published |
+| 9 | A Practical DRM Framework and Privacy on Cloud | ITC-CSCC | 2014 | ✅ Published |
+
+### Under Review & Accepted
+
+| # | Title | Venue | Year | Status |
+|:---:|---|---|:---:|:---:|
+| 1 | Workload-Aware Storage Reduction for Multi-Tenant SIEM on ClickHouse | IJACSA | 2026 | 🟢 Accepted |
+| 2 | Comparative Evaluation of Log Reduction Techniques Using Vector | ECTI-CIT | 2025 | 🟢 Accepted |
+| 3 | ThaiScamBench and Beyond XLR: Bridging the Lab-to-Production Gap | ICIC Express | 2026 | 🟡 Under Review |
+| 4 | AI-Driven Log Reduction and Storage Optimization for Security Operations | IJECE | 2026 | 🟡 Under Review |
+| 5 | Context-Aware Security Telemetry Reduction: Streaming Architecture for SOC | IEEE Access | 2026 | 🟡 Under Review |
+| 6 | HMARL-SOC: Hierarchical Multi-Agent RL for Autonomous SOC Operations | ITC-CSCC | 2026 | 🟡 Under Review |
+| 7 | Automated Security Alert Analysis Using LLMs for SOC | Wiley ETRI | 2026 | 🟡 Under Review |
+| 8 | HMARL-SOC: Multi-Agent RL for Autonomous SOC Coordination | IEEE Access | 2026 | 🟡 Under Review |
+
+### In Progress (~17 papers)
+
+> Research series on **LLM Fine-tuning for SOC Alert Classification** — topics include Label Hallucination, DPO/ORPO, LoRA, Vocabulary Collapse, Cross-Domain Transfer, Quantization Effects, and more.
 
 ---
 
