@@ -69,25 +69,34 @@
 ### Research Areas
 
 ```mermaid
-mindmap
-  root((AI-Enhanced<br/>Education<br/>Ecosystem))
-    🤖 LLM for Education
-      Thai AI Tutor
-      Automated Grading
-      Feedback Generation
-      Fine-tuning SFT DPO LoRA
-    📊 Learning Analytics
-      Early Warning System
-      Behavior Analysis
-      Educational Data Mining
-    🔒 Cybersecurity Education
-      Cyber Range SOC Simulation
-      Security Awareness Platform
-      Gamified Learning
-    ⚖️ AI Ethics
-      Label Hallucination
-      Academic Integrity
-      Responsible AI Policy
+graph LR
+    CENTER["AI-Enhanced<br/>Education Ecosystem"]
+
+    CENTER --> A["LLM for Education"]
+    A --> A1["Thai AI Tutor"]
+    A --> A2["Automated Grading"]
+    A --> A3["Fine-tuning: SFT, DPO, LoRA"]
+
+    CENTER --> B["Learning Analytics"]
+    B --> B1["Early Warning System"]
+    B --> B2["Behavior Analysis"]
+    B --> B3["Educational Data Mining"]
+
+    CENTER --> C["Cybersecurity Education"]
+    C --> C1["Cyber Range & SOC Sim"]
+    C --> C2["Security Awareness"]
+    C --> C3["Gamified Learning"]
+
+    CENTER --> D["AI Ethics"]
+    D --> D1["Label Hallucination"]
+    D --> D2["Academic Integrity"]
+    D --> D3["Responsible AI Policy"]
+
+    style CENTER fill:#6366f1,stroke:#4f46e5,color:#fff,font-weight:bold
+    style A fill:#0ea5e9,stroke:#0284c7,color:#fff
+    style B fill:#10b981,stroke:#059669,color:#fff
+    style C fill:#f59e0b,stroke:#d97706,color:#fff
+    style D fill:#ef4444,stroke:#dc2626,color:#fff
 ```
 
 ### Selected Publications
