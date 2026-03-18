@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nutthakorn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nutthakorn/)
 [![GitHub](https://img.shields.io/badge/GitHub-nutthakorn7-181717?style=flat-square&logo=github)](https://github.com/nutthakorn7)
-[![Email](https://img.shields.io/badge/Email-nutthakorn.c@fte.kmutnb.ac.th-DC3545?style=flat-square&logo=gmail&logoColor=white)](mailto:nutthakorn.c@fte.kmutnb.ac.th)
+[![Email](https://img.shields.io/badge/Email-nutthakorn.c@gmail.com-DC3545?style=flat-square&logo=gmail&logoColor=white)](mailto:nutthakorn.c@gmail.com)
 
 </div>
 
@@ -274,7 +274,7 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nutthakorn/)
 [![GitHub](https://img.shields.io/badge/GitHub-nutthakorn7-181717?style=for-the-badge&logo=github)](https://github.com/nutthakorn7)
-[![Email](https://img.shields.io/badge/Email-nutthakorn.c@fte.kmutnb.ac.th-DC3545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutthakorn.c@fte.kmutnb.ac.th)
+[![Email](https://img.shields.io/badge/Email-nutthakorn.c@gmail.com-DC3545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutthakorn.c@gmail.com)
 
 *คณะครุศาสตร์อุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ*  
 *Faculty of Technical Education, King Mongkut's University of Technology North Bangkok*
